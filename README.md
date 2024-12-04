@@ -21,7 +21,7 @@ Hi there! 👋 I’m **[Rhythm Roy]**, a passionate **Computer Science Engineer*
 ---
 
 ### 🌟 My Interests  
-- 🌐 Using **AI** to tackle societal challenges (e.g., healthcare, anomaly detection, creative industries).  
+- 🌐 Using **AI** to tackle societal challenges.  
 - 🧠 Exploring the potential of **GANs** in art, music, and content creation.  
 - 🚗 Applications like self-driving cars and advanced predictive modeling.  
 
